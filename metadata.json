@@ -1,0 +1,6 @@
+{
+  "name": "Akash Portfolio",
+  "description": "A sleek, minimalist developer portfolio and resume website featuring interactive project showcases, experience timeline, skills matrix, dark mode, and a contact form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
